@@ -6,7 +6,25 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["discord", "discord-bot"],
+  "keywords": [
+    "discord",
+    "discord-bot"
+  ],
   "author": "Arda Sevinç <ardasevinc.technical@gmail.com> (https://ardasevinc.com)",
-  "license": "GPL-3.0-or-later"
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "bufferutil": "^4.0.7",
+    "discord.js": "^14.6.0",
+    "erlpack": "github:discord/erlpack",
+    "utf-8-validate": "^5.0.10",
+    "zlib-sync": "^0.1.7"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.42.1",
+    "@typescript-eslint/parser": "^5.42.1",
+    "eslint": "^8.27.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "^2.7.1",
+    "typescript": "^4.8.4"
+  }
 }

@@ -1,0 +1,12 @@
+{
+  "name": "discord-leveling-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["discord", "discord-bot"],
+  "author": "Arda Sevinç <ardasevinc.technical@gmail.com> (https://ardasevinc.com)",
+  "license": "GPL-3.0-or-later"
+}
